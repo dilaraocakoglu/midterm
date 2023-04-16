@@ -1,0 +1,72 @@
+---
+title: "Jobs and gender pay gap"
+author: 
+  -Ayşe Dilara Ocakoğlu[^1]
+bibliography: ../bibliography/biblio.bib
+csl: ../csl/apa.csl
+header-includes:
+  - \usepackage{polyglossia}
+  - \setmainlanguage{english}
+  - \usepackage{booktabs}
+  - \usepackage{caption} 
+  - \captionsetup[table]{skip=10pt}
+output:
+  bookdown::pdf_document2:
+    fig_caption: yes
+    fig_height: 3
+    fig_width: 4
+    keep_tex: no
+    latex_engine: xelatex
+    number_sections: yes
+    toc: no
+geometry: margin=1in
+link-citations: yes
+urlcolor: blue
+fontsize: 12pt
+biblio-style: apalike
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+<!-- ======================================================================= -->
+<!-- ============================== FOOTNOTES ============================== -->
+<!-- ======================================================================= -->
+[^1]: 20080496, [Github Repo](https://github.com/dilaraocakoglu/midtermd.git)
+
+# Important Information About Midterm
+
+\colorbox{BurntOrange}{WRITE YOUR GITHUB REPO LINK ON LINE 35 IN THIS FILE!}
+
+**Project Proposal submisson will be done by uploading a zip file to the ekampus system along with the Github repo link. If you do not upload a zip file to the system and do not provide a Github repo link, you will be deemed not to have entered the midterm and final exams.**
+
+**You must upload your project folder (`YourStudentID.zip` file) to *ekampus.ankara.edu.tr* until 16 April 2023, 23:59.**
+
+\colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
+INTRODUCTION
+When we look at the professions, we see that in many of them, we see that male dominance is dominant. Some of the professions where male dominance outnumbers are academia, finance, engineer, architect, etc. In addition to the fact that the men we see in many parts of the business are out numbered by the women, there are 2 questions being asked. First of all, is the salary difference between men and women out numbered in men's work areas, and is the salary also higher? Our second question is, is the increase in women's working life and their salaries equal to men's wages?  I reached the data that answered and supported the answers to my questions from the Bureau of Labor Statistics and the Census Bureau about women in the workforce. There are historical data about women's earnings and employment status, as well as detailed information about specific occupation and earnings from 2013-2016. , which was linked to tidytueasday. When we examine the observations, we see different professions, full-time, part-time employment status, the number of working men and women, the branches of professions, and the salaries of men and women.
+LITRETURE REVIEW
+The gender pay gap still a problem substantially over the past long year, and more women are working in previously dominated by males. These two labor market outcomes are closely related because substantial evidence demonstrates that, even when controlling for measured individual worker characteristics and a number of occupational characteristics, predominantly female occupations pay less. However, the proper meaning of these findings is still up for subject to discussion. the changes in the balance of female to male earners for full-time, year-round employees' yearly wages and their typical weekly earnings. The fact that women tend to work a shorter amount of weeks per year and hours per week than males is taken into consideration by these criteria.  In order to find a more diverse population of men and women workers and to steer clear of taking into account of the hourly wage disadvantages related to part-time labor, we focused on employees who work full-time. Across the board, considerable numbers of women have entered a variety of traditionally masculine occupations. Women generally have a greater probability than men to work part-time and have obstructing occupations. inequalities in pay-setting institutions, on the other hand, advocate that the pay effects of disparities in gender in the labor market. Given that men and women hold different jobs and work in different industries, discrepancies or changes in the wage gaps in those fields would also affect the gender pay gap. For instance, employment in the production sector decreased in comparison to other sectors, and within sectors, blue-collar employment rose in comparison to white-collar employment. These economic trends helped to close the gender pay gap because males are more likely than women to work in production and blue-collar jobs(Kahn 2015). In order to facilitate women's participation and retention in the job market and to decrease obstacles to entry into traditionally male fields, policy attention may be more effectively concentrated in these areas(Lawrarnca M. Kahn 2015). Focusing on disparities in pay, Blau and Kahn(Blau Kahn 1997)  showed that women's relative position significantly improved, particularly during the 1980s,  while female real pay climbed extremely quickly but it is not change that job payment gap. . They proved that a smaller "unexplained" gender gap, which may reflect either a decrease in labor market discrimination or an improvement in women's unmeasured characteristics, can help explain some of this reducing gender pay gap. This improvement in female human resources, particularly in the type of labor market experience, can also help explain some of this reducing gender pay gap. .The dramatic decrease of the gender gap can also be attributed to a large change in the job classifications for women. More specifically, female representation in manager and professional positions has increased, while the fact that their share in low-paying administrative and related jobs has not. In this sample, both the men and the women are likely to have high ambitions for their professions and a long journeys to work. Previous studies have looked at disparities in gender pay among highly paid individuals. Women's pay and jobs may be negatively affected by discrimination on the job market.Different factors might lead to discrimination. According to Becker's (1957) theory, discrimination results from the prejudiced preferences of consumers, coworkers, or bosses. Over all career stages, industrial scientists make more money on average than academics, despite their gender. However, the gender pay gap changes in a different way throughout the course of a career. For instance in academics, men and women start off with equal compensation, but the gap increases as the career progresses. In contrast, men earn more than women in the workplace initially, but as they advance in their careers, the gender pay gap still in there.(Ding, Ohyama, Agarwal 2021).
+To sum up, When we examine the positions of women in business life and compare the positions of men in business life, we see that the number of men in many business areas is more than the number of women (no matter full-time or part-time). Although it has increased in recent years, when we look at the male-female salary, there is still a noticeable difference in the salary difference between men and women.
+
+
+
+
+
+
+\newpage
+# References {#references}
+<div id="refs"></div>
+
+
+
+Blau, Francine, D., and Lawrence M. Kahn. 2000. "Gender Differences in Pay." Journal of Economic Perspectives, 14 (4): 75-99.
+DOI: 10.1257/jep.14.4.75
+
+CURRENT VERSION: 1DATEApril 2015DOI10.15185/izawol.150AUTHORLawrence M. KahnARTICLE NUMBER: 150
+
+Published10 August 2021Issue DateAugust 2021DOIhttps://doi.org/10.1038/s41587-021-01008-0
+
+Marianne Bertrand and Kevin F. HallockView all authors and affiliations
+Volume 55, Issue 1
+https://doi.org/10.1177/00197939010550010
